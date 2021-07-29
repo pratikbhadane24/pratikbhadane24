@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Bhadane!</h1>
 <h3 align="center">I'm a everyday Coder!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikbhadane24" alt="pratikbhadane24" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikbhadane24" alt="pratikbhadane24" /></a> </p>
 
 - 🔭 I’m currently working on **Sportify and Many small Projects**
 
@@ -13,6 +13,7 @@
 
 - ⚡ Fun fact **I'm an Enthusiastic Learner......**
 
+<hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/pratikbhadane22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratikbhadane22" height="30" width="40" /></a>
