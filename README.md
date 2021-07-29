@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pratik Bhadane!</h1>
-<h3 align="center">Everyday Coder!</h3>
+<h3 align="center">I'm a Student and an Everyday Coder!</h3>
 <hr>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src=https://github-profile-trophy.vercel.app/?username=pratikbhadane24&theme=onedark) alt="pratikbhadane24" /></a> </p>
