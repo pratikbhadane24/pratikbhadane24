@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pratik Bhadane!</h1>
-<hr>
 <h3 align="center">Everyday Coder!</h3>
 <hr>
 
