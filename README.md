@@ -3,7 +3,7 @@
 <h3 align="center">Everyday Coder!</h3>
 <hr>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikbhadane24" alt="pratikbhadane24" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src=https://github-profile-trophy.vercel.app/?username=pratikbhadane24&theme=onedark) alt="pratikbhadane24" /></a> </p>
 
 - 🔭 I’m currently working on **Sportify and Many small Projects**
 
