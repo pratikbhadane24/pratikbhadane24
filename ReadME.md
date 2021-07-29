@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikbhadane24" alt="pratikbhadane24" /></a> </p>
 
-- 🔭 I’m currently working on **Sportify**
+- 🔭 I’m currently working on **Sportify and Many small Projects**
 
 - 🌱 I’m currently learning **DSA, Python Bootcamp, C++ Applications, Full Stack Development**
 
