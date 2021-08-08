@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pratikbhadane24@gmail.com**
 
-- ⚡ Fun fact **I'm an Enthusiastic Learner......**
+- ⚡ **I'm an Enthusiastic Learner......**
 
 <hr>
 <h3 align="center">Connect with me:</h3>
