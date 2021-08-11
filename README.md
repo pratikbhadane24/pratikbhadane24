@@ -27,7 +27,7 @@
 <hr>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikbhadane24&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="pratikbhadane24" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikbhadane24&show_icons=true&theme=ayu-mirage&locale=en&layout=compact" alt="pratikbhadane24" /></p>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pratikbhadane24&show_icons=true&theme=synthwave&locale=en" alt="pratikbhadane24" /></p>
 
