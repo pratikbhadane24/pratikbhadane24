@@ -19,7 +19,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/pratikbhadane22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratikbhadane22" height="30" width="40" /></a>
-<a href="https://instagram.com/__pratik__bhadane__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__pratik__bhadane__" height="30" width="40" /></a>
+<a href="https://instagram.com/pratik_bhadane_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__pratik__bhadane__" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
