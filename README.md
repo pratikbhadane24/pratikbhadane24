@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Pratik Bhadane!</h1>
 <h3 align="center">I'm a Student and an Everyday Coder!</h3>
 <hr>
@@ -33,3 +32,4 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pratikbhadane24&show_icons=true&theme=ayu-mirage&locale=en" alt="pratikbhadane24" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikbhadane24&theme=ayu-mirage" alt="pratikbhadane24" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{pratikbhadane24}/count.svg" alt="pratikbhadane24 :: Visitor's Count" /></p>
