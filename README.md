@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pratik Bhadane!</h1>
 <h3 align="center">I'm a Student and an Everyday Coder!</h3>
-<hr>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src=https://github-profile-trophy.vercel.app/?username=pratikbhadane24&theme=onedark) alt="pratikbhadane24" /></a> </p>
 
-- 🔭 I’m currently working on **Sportify and Many small Projects**
+<p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=pratikbhadane24&theme=monokai&no-bg=true&no-frame=true&&title=MultiLanguage,Commits,Repositories,Followers,Stars,PullRequest,) alt="pratikbhadane24" /></p>
 
-- 🌱 I’m currently learning **DSA, Python Bootcamp, C++ Applications, Full Stack Development**
+- 🔭 I’m currently working on **Scrypto And Coding Skills**
 
-- 💬 Ask me about **Python, C++**
+- 🌱 I’m currently learning **Algo Trading, Data Science**
+
+- 💬 Ask me about **Python, JavaScript**
 
 - 📫 How to reach me **pratikbhadane24@gmail.com**
 
