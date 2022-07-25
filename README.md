@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Student and an Everyday Coder!</h3>
 
 
-<p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=pratikbhadane24&theme=monokai&no-bg=true&no-frame=true&&title=MultiLanguage,Commits,Repositories,Followers,Stars,PullRequest,) alt="pratikbhadane24" /></p>
+<p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=pratikbhadane24&theme=monokai&no-frame=true&&title=MultiLanguage,Commits,Repositories,Followers,Stars,PullRequest,) alt="pratikbhadane24" /></p>
 
 - 🔭 I’m currently working on **Scrypto And Coding Skills**
 
