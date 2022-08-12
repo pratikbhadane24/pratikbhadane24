@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Scrypto And Coding Skills**
 
-- 🌱 I’m currently learning **Algo Trading, Data Science**
+- 🌱 I’m currently learning **DevOps, Algo Trading, Data Science**
 
 - 💬 Ask me about **Python, JavaScript**
 
