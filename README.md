@@ -4,11 +4,11 @@
 
 <p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=pratikbhadane24&theme=monokai&no-frame=true&&title=MultiLanguage,Commits,Repositories,Followers,Stars,PullRequest,) alt="pratikbhadane24" /></p>
 
-- 🔭 I’m currently working on **Scrypto And Coding Skills**
+- 🔭 I’m currently working **Full Time**
 
-- 🌱 I’m currently learning **Django, DevOps, Algo Trading,**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Python, JavaScript**
+- 💬 Ask me about **Python, Rust, JavaScript**
 
 - 📫 How to reach me **pratikbhadane24@gmail.com**
 
