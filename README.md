@@ -21,9 +21,12 @@
 
 <div align="center">
   <a href="https://github.com/pratikbhadane24/ferro-ta">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratikbhadane24&repo=ferro-ta&theme=tokyonight&hide_border=true&title_color=70A5FD" alt="ferro-ta - Python/Rust TA Library" />
+    <img src="https://socialify.git.ci/pratikbhadane24/ferro-ta/image?custom_language=Rust&font=Jost&language=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Auto" alt="ferro-ta - Python/Rust TA Library" width="450" />
   </a>
 </div>
+
+
+<br/>
 
 ### 🛠️ Tech Stack & Tools
 
@@ -44,14 +47,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratikbhadane24/pratikbhadane24/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratikbhadane24/pratikbhadane24/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pratikbhadane24/pratikbhadane24/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br/>
 <p align="center">
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </p>
-
 
 <br/>
 
