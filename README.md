@@ -10,9 +10,9 @@
 ### 👨🏻‍💻 About Me
 
 - 🔭 I’m currently scaling operations and building high-frequency trading microservices.
-- 🌱 I’m currently deep-diving into **Rust, Pingora, and WebAssembly** for low-latency execution.
+- 🌱 I’m currently deep-diving into **Rust** for low-latency workflows.
 - 👯 I'm open to collaborating on **Open Source FinTech & Quantitative Analysis tools** like `ferro-ta`.
-- 💬 Ask me about **FastAPI, Rust, SvelteKit, Kubernetes, and globally distributed proxy routing**.
+- 💬 Ask me about **FastAPI, Rust, SvelteKit, Kubernetes**.
 - 📫 Reach me at: **[pratikbhadane24@gmail.com](mailto:pratikbhadane24@gmail.com)**.
 
 <br/>
